@@ -1,4 +1,8 @@
 /* *
+
+  author: Kostantinos Tsiamitros
+  email: ktsiamitros@metamind.gr
+  
               The Coordinator code.
 
   ~~~~~~~~~~~ HARDWARE CONFIGURATION ~~~~~~~~~~~~~
