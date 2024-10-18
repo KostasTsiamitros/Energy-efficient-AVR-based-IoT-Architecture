@@ -42,3 +42,8 @@ Finally, the DUE echoes the received message to the Middleware, which in turn
 decodes and POSTs it to a specific endpoint of the webpage that we created.
 When the sensor values reach the webpages, they are stored in an SQL Databse.
 
+~~~~~~~~~~~ PROBLEMS IDENTIFIED ~~~~~~~~~~~~~
+The main power consumer on the IoT Architecture is the nRF24L01 radio which
+is powered on constantly. This problem will be tackled in the future to
+further reduce the total power consumption of the board.
+
