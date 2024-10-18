@@ -1,7 +1,7 @@
 /**
-  The IoT Architecture Instance
+  The Arduino Uno code used in the evaluations.
 
-  //Improvements can be done. See Future Work.
+  Improvements can be made. See Future Work.
 
   author: Kostantinos Tsiamitros
   email: ktsiamitros@metamind.gr
